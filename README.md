@@ -2,13 +2,12 @@
 The collection of inference methods for sewer defect classification using various model formats.
 
 ## 功能说明
-'''
-pth模型直接推理
-Flask API模型推理
-Openvino模型推理
-tensorrt模型推理
-tf_serving+docker模型推理
-'''
+
+- pth模型直接推理
+- Flask API模型推理
+- Openvino模型推理
+- tensorrt模型推理
+- tf_serving+docker模型推理
 
 ## 分类效果
 
