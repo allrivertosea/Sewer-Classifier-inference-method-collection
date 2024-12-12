@@ -9,7 +9,9 @@ The collection of inference methods for sewer defect classification using variou
 ## 环境配置
 
 conda create -n infer_env python=3.8 -y
+
 conda activate infer_env
+
 pip install -r requirements.txt
 
 ## 使用说明
