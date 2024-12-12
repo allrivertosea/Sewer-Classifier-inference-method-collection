@@ -1,0 +1,11 @@
+flask
+torch
+torchvision
+onnxruntime
+openvino
+numpy
+Pillow
+opencv-python
+tensorrt
+pyqt5
+requests
