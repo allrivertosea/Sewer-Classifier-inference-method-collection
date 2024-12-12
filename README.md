@@ -3,7 +3,7 @@ The collection of inference methods for sewer defect classification using variou
 
 ## 分类效果
 
-![功能测试](https://github.com/allrivertosea/PNP-camera-calibration/blob/main/result.png)
+![功能测试](https://github.com/allrivertosea/Sewer-Classifier-inference-method-collection/blob/main/infer_results/result_pics/00000001.png)
 
 
 ## 环境配置
